@@ -1,3 +1,6 @@
 *.png
 receipts/
+!receipts/data
+*.pdf
+receipts/**/*.docx
 
