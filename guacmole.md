@@ -3,7 +3,10 @@ Guacamole
 * Avocado
 * Lime
 * Cilantro
-* salt
+* Salt
 ## Measurements
 
 ## Directions
+Mash the avocado
+Juice the lime
+Chopp the cilantro
